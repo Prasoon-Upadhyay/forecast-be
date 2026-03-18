@@ -1,5 +1,7 @@
 # Forecast.ly Backend
 
+GitHub: https://github.com/Prasoon-Upadhyay/forecast-BE
+
 Backend service for a wind forecast accuracy visualization app built for the FuelHH + WindFor challenge.
 
 This service fetches data from BMRS datasets, validates inputs, applies forecast-horizon logic, aligns actual and forecasted data, and returns a clean time-series response ready for visualization.
