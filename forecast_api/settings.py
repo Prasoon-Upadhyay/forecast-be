@@ -138,4 +138,5 @@ CORS_ALLOW_ALL_ORIGINS = False
 CORS_ALLOWED_ORIGINS = [
     'http://localhost:5173',
     'https://emotion-fe.vercel.app',
+    'https://forecastly-self.vercel.app',
 ]
