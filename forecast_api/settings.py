@@ -31,7 +31,7 @@ SECRET_KEY = 'django-insecure-c*0f6y2^_4u!07w@+*ok9_8t(dl6xa-g1o0fll%0juoq7&64kj
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'emotion-api-fmag.onrender.com', 'web-production-8e7d.up.railway.app', 'web-production-977d2.up.railway.app']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'forecast-be-production.up.railway.app', 'https://forecast-be-production.up.railway.app']
 
 
 
