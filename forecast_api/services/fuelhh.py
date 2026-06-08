@@ -27,4 +27,5 @@ def fetch_fuelhh(start, end, fuel_type="WIND"):
         return df
 
     except Exception as e:
+        print(e)
         raise APIException(Errors.EXTERNAL_API_FAILURE)
